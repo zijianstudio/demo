@@ -1,0 +1,87 @@
+{
+  "comment": "# relativity 1.0.0-dev.0 Wed May 24 2023 22:21:32 GMT+0200 (Central European Summer Time)",
+  "assert": {
+    "sha": null,
+    "branch": null
+  },
+  "axon": {
+    "sha": null,
+    "branch": null
+  },
+  "brand": {
+    "sha": null,
+    "branch": null
+  },
+  "chipper": {
+    "sha": null,
+    "branch": null
+  },
+  "dot": {
+    "sha": null,
+    "branch": null
+  },
+  "joist": {
+    "sha": null,
+    "branch": null
+  },
+  "kite": {
+    "sha": null,
+    "branch": null
+  },
+  "perennial-alias": {
+    "sha": null,
+    "branch": null
+  },
+  "phet-core": {
+    "sha": null,
+    "branch": null
+  },
+  "phetcommon": {
+    "sha": null,
+    "branch": null
+  },
+  "phetmarks": {
+    "sha": null,
+    "branch": null
+  },
+  "query-string-machine": {
+    "sha": null,
+    "branch": null
+  },
+  "relativity": {
+    "sha": null,
+    "branch": null
+  },
+  "scenery": {
+    "sha": null,
+    "branch": null
+  },
+  "scenery-phet": {
+    "sha": null,
+    "branch": null
+  },
+  "sherpa": {
+    "sha": null,
+    "branch": null
+  },
+  "sun": {
+    "sha": null,
+    "branch": null
+  },
+  "tambo": {
+    "sha": null,
+    "branch": null
+  },
+  "tandem": {
+    "sha": null,
+    "branch": null
+  },
+  "twixt": {
+    "sha": null,
+    "branch": null
+  },
+  "utterance-queue": {
+    "sha": null,
+    "branch": null
+  }
+}
